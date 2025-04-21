@@ -6,7 +6,7 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "wp-pwa build Assignment-ux-308"
-"
+    "build": "wp-pwa build Assignment3-ux-308"
+
   }
 }
